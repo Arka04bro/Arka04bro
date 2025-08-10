@@ -1,30 +1,30 @@
-<h1 align="center">Herzlich Willkommen!</h1>
+<h1 align="center">Welcome to My GitHub Profile</h1>
 
 <p align="center">
-🌟 Young Developer | 💻 AI & Computer Vision Enthusiast | 🎓 Future Computer Scientist  
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+to+build+cool+projects.;Exploring+AI+%7C+ML+%7C+CV+%7C+IoT+%7C+UI%2FUX" alt="Typing SVG" />
+AI and Computer Vision Developer | Machine Learning Enthusiast | Future Computer Scientist
 </p>
 
 ---
 
-### 🚀 About Me
-- 🧠 Passionate about **Machine Learning, Deep Learning, and Computer Vision**  
-- 🛠 I enjoy building real-world projects like:
-  - Emotion Detection Systems
-  - Smart Parental Control Apps
-  - Fire Spread Prediction with Cellular Automata
-  - Arduino + Sensor Automation Systems
-- 🏆 Participating in hackathons, competitions & STEM initiatives  
-- 🌍 Dreaming big: planning to study CS in **Germany**
+## About Me
+I am a high school student with a strong interest in Artificial Intelligence, Machine Learning, and Computer Vision.  
+My experience includes both software development and hardware integration, combining algorithm design with real-world applications.  
+I actively participate in hackathons, competitions, and STEM initiatives, aiming to contribute to impactful technological solutions.  
+My long-term goal is to study Computer Science in Germany with a specialization in AI research and development.
 
 ---
 
-### 🛠 Tech Stack
+## Key Projects
+- **Emotion Recognition System** — Real-time facial emotion detection using deep learning and OpenCV.
+- **Smart Parental Control Application** — Integrated computer vision and speech analysis to ensure child safety.
+- **Fire Spread Prediction Model** — Used cellular automata and meteorological data to simulate wildfire propagation.
+- **Arduino & ESP32 Automation Systems** — Developed IoT solutions with various sensors, actuators, and control logic.
+
+---
+
+## Technical Skills
 ```plaintext
-Languages: Python  • Arduino IDE
-Frameworks: PyTorch • OpenCV •  PyQt5 
-Hardware: Arduino • ESP32 • Sensors • Motors • Joysticks
-
+Programming Languages: Python, C++ (Arduino IDE)
+Frameworks & Libraries: PyTorch, OpenCV, PyQt5
+Hardware Platforms: Arduino, ESP32, sensors, motors, joysticks
+Tools & Platforms: Git, Google Colab, Visual Studio Code
