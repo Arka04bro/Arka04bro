@@ -98,14 +98,6 @@
 
 </div>
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **Sentra Retail OS** | AI loss prevention on existing CCTV | YOLOv8, SAM 2, SlowFast, FastAPI |
-| **Nurvia** | Medical voice-to-documentation | Whisper, Qwen2.5, pgvector |
-| **ChronoSort** | AI archaeology assistant for FLL | SigLIP, Raspberry Pi |
-| **CubeSat Flight Software** | Dual ESP32 with LoRa telemetry | C++, FreeRTOS, FDIR |
-| **Shoplifting Detection** | Real-time pose + behavioral ML | YOLOv11, XGBoost |
-
 <br/>
 
 <!-- Divider -->
